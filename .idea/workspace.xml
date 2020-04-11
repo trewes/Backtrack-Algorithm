@@ -21,7 +21,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YOjEe7tgjxPJJ6hqA1wlP11dAB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Backtrack_Algorithm" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Backtrack_Algorithm" TARGET_NAME="Backtrack_Algorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Backtrack_Algorithm" RUN_TARGET_NAME="Backtrack_Algorithm">
@@ -69,7 +73,7 @@
       <workItem from="1586594552140" duration="535000" />
       <workItem from="1586596038000" duration="976000" />
       <workItem from="1586597318644" duration="447000" />
-      <workItem from="1586597781283" duration="170000" />
+      <workItem from="1586597781283" duration="1119000" />
     </task>
     <servers />
   </component>
@@ -82,26 +86,26 @@
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
     <state x="583" y="226" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1586597012811" />
-    <state x="533" y="257" key="FileChooserDialogImpl" timestamp="1586596510216">
+    <state x="533" y="257" key="FileChooserDialogImpl" timestamp="1586598800260">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state x="533" y="257" key="FileChooserDialogImpl/0.0.1504.1003@0.0.1504.1003" timestamp="1586596510216" />
-    <state width="1461" height="205" key="GridCell.Tab.0.bottom" timestamp="1586597767927">
+    <state x="533" y="257" key="FileChooserDialogImpl/0.0.1504.1003@0.0.1504.1003" timestamp="1586598800260" />
+    <state width="1461" height="205" key="GridCell.Tab.0.bottom" timestamp="1586598914877">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1586597767927" />
-    <state width="1461" height="205" key="GridCell.Tab.0.center" timestamp="1586597767927">
+    <state width="1461" height="205" key="GridCell.Tab.0.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1586598914877" />
+    <state width="1461" height="205" key="GridCell.Tab.0.center" timestamp="1586598914877">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.center/0.0.1504.1003@0.0.1504.1003" timestamp="1586597767927" />
-    <state width="1461" height="205" key="GridCell.Tab.0.left" timestamp="1586597767927">
+    <state width="1461" height="205" key="GridCell.Tab.0.center/0.0.1504.1003@0.0.1504.1003" timestamp="1586598914877" />
+    <state width="1461" height="205" key="GridCell.Tab.0.left" timestamp="1586598914877">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.left/0.0.1504.1003@0.0.1504.1003" timestamp="1586597767927" />
-    <state width="1461" height="205" key="GridCell.Tab.0.right" timestamp="1586597767927">
+    <state width="1461" height="205" key="GridCell.Tab.0.left/0.0.1504.1003@0.0.1504.1003" timestamp="1586598914877" />
+    <state width="1461" height="205" key="GridCell.Tab.0.right" timestamp="1586598914877">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.right/0.0.1504.1003@0.0.1504.1003" timestamp="1586597767927" />
+    <state width="1461" height="205" key="GridCell.Tab.0.right/0.0.1504.1003@0.0.1504.1003" timestamp="1586598914877" />
     <state width="1461" height="332" key="GridCell.Tab.1.bottom" timestamp="1586547816441">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
@@ -126,10 +130,10 @@
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
     <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.0.1504.1003@0.0.1504.1003" timestamp="1586544531095" />
-    <state x="256" y="147" key="SettingsEditor" timestamp="1586597951840">
+    <state x="256" y="147" key="SettingsEditor" timestamp="1586598902119">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state x="256" y="147" key="SettingsEditor/0.0.1504.1003@0.0.1504.1003" timestamp="1586597951840" />
+    <state x="256" y="147" key="SettingsEditor/0.0.1504.1003@0.0.1504.1003" timestamp="1586598902119" />
     <state x="93" y="93" width="1319" height="817" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586596806876">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
