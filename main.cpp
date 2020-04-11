@@ -24,6 +24,5 @@ int main(int argc, char* argv[])
 	}std::cout<<std::endl;
 
     std::cout<<"End of program."<<std::endl;
-
     return 0;
 }
