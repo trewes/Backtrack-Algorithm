@@ -12,20 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="557b5cdd-cbc1-4f77-bb87-3af4a8bbef07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backtracking.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backtracking.h" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Backtrack_Algorithm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Backtrack_Algorithm.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/backtracking.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/backtracking.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/graph.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/graph.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/graph.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/graph.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +63,19 @@
       <workItem from="1582660712973" duration="321000" />
       <workItem from="1582661708043" duration="476000" />
     </task>
+    <task id="LOCAL-00001" summary="Feedback">
+      <created>1586883016384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586883016384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feedback" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feedback" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582662149002">
@@ -82,6 +86,10 @@
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
     <state x="522" y="332" key="#com.intellij.tools.ToolEditorDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1582659166142" />
+    <state x="307" y="96" key="CommitChangelistDialog2" timestamp="1586883013320">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state x="307" y="96" key="CommitChangelistDialog2/0.0.1504.1003@0.0.1504.1003" timestamp="1586883013320" />
     <state x="488" y="264" key="EnvironmentVariablesDialog" timestamp="1582660931523">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
@@ -90,22 +98,22 @@
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
     <state x="533" y="257" key="FileChooserDialogImpl/0.0.1504.1003@0.0.1504.1003" timestamp="1582661001331" />
-    <state width="1461" height="205" key="GridCell.Tab.0.bottom" timestamp="1586879169273">
+    <state width="1461" height="205" key="GridCell.Tab.0.bottom" timestamp="1586883136262">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1586879169273" />
-    <state width="1461" height="205" key="GridCell.Tab.0.center" timestamp="1586879169272">
+    <state width="1461" height="205" key="GridCell.Tab.0.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1586883136262" />
+    <state width="1461" height="205" key="GridCell.Tab.0.center" timestamp="1586883136262">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.center/0.0.1504.1003@0.0.1504.1003" timestamp="1586879169272" />
-    <state width="1461" height="205" key="GridCell.Tab.0.left" timestamp="1586879169271">
+    <state width="1461" height="205" key="GridCell.Tab.0.center/0.0.1504.1003@0.0.1504.1003" timestamp="1586883136262" />
+    <state width="1461" height="205" key="GridCell.Tab.0.left" timestamp="1586883136261">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.left/0.0.1504.1003@0.0.1504.1003" timestamp="1586879169271" />
-    <state width="1461" height="205" key="GridCell.Tab.0.right" timestamp="1586879169272">
+    <state width="1461" height="205" key="GridCell.Tab.0.left/0.0.1504.1003@0.0.1504.1003" timestamp="1586883136261" />
+    <state width="1461" height="205" key="GridCell.Tab.0.right" timestamp="1586883136262">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.right/0.0.1504.1003@0.0.1504.1003" timestamp="1586879169272" />
+    <state width="1461" height="205" key="GridCell.Tab.0.right/0.0.1504.1003@0.0.1504.1003" timestamp="1586883136262" />
     <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1582660707821">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
