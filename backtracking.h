@@ -65,18 +65,18 @@ std::vector<Node> isomorphic(const Graph &first_graph, const Graph &second_graph
 int degree(const Graph &graph, Node node);
 
 /*
- * degree2(graph, node) Gives some more info about the neighbourhood of node
+ * degree_neighbours(graph, node) 
  *
  * Returns: The degree of all neighbours of node as a sorted vector
  */
-std::vector<int> degree2(const Graph &graph, Node node);
+std::vector<int> degree_neighbours(const Graph &graph, Node node);
 
 /*
- * degree3(graph, node) Counts number of triangles going through a node
+ * triangle_count(graph, node) Counts number of triangles going through a node
  *
  * Returns: The number of triangles going through node (Twice in the undirected case)
  */
-int degree3(const Graph &graph, Node node);
+int triangle_count(const Graph &graph, Node node);
 
 /*
  * distinguish(first_graph, first_node, second_graph, second_node, method)

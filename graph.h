@@ -57,14 +57,14 @@ public:
 
   void add_nodes(NodeId num_new_nodes);
   enum Format {list, matrix};
-  void add_edge(NodeId tail, NodeId head, int format = list);
+  void add_edge(NodeId tail, NodeId head, Format format = list);
 
   NodeId num_nodes() const;
   const Node & get_node(NodeId) const;
   void print() const;
 
   const DirType dirtype;
-  static const NodeId invalid_node;
+  static constexpr NodeId INVALIDNODE=-1;
 
 private:
   std::vector<Node> _nodes;

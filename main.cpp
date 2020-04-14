@@ -9,8 +9,8 @@ int main(int argc, char* argv[])
 {
     Graph::DirType type = Graph::undirected;
                                               //graphs can be given at runtime as arguments or specified at compile time
-    Graph g = (argc > 1) ? Graph(argv[1], type): Graph("test1.txt", type);
-    Graph h = (argc > 2) ? Graph(argv[2], type): Graph("test2.txt", type);
+    Graph g = (argc > 1) ? Graph(argv[1], type): Graph("Graphs/test5_1.txt", type);
+    Graph h = (argc > 2) ? Graph(argv[2], type): Graph("Graphs/test5_2.txt", type);
 
     std::cout<<"Begin."<<std::endl;
     std::vector<Graph::NodeId> phi;

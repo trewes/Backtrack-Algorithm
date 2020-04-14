@@ -5,13 +5,28 @@
       <config projectName="Backtrack_Algorithm" targetName="Backtrack_Algorithm" />
     </generated>
   </component>
-  <component name="CMakeSettings" AUTO_RELOAD="true">
+  <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ae02e83-e493-4f37-8af4-fd47e065e374" name="Default Changelist" comment="" />
+    <list default="true" id="557b5cdd-cbc1-4f77-bb87-3af4a8bbef07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking.h" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Backtrack_Algorithm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Backtrack_Algorithm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/backtracking.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/backtracking.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/graph.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/graph.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Backtrack_Algorithm.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +38,8 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="ProjectId" id="1YOjEe7tgjxPJJ6hqA1wlP11dAB" />
+  <component name="ProjectId" id="1YJR9KRr0nF5bTZkEKUy1ddV8z7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,8 +49,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.cpp" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
     <configuration name="Backtrack_Algorithm" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Backtrack_Algorithm" TARGET_NAME="Backtrack_Algorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Backtrack_Algorithm" RUN_TARGET_NAME="Backtrack_Algorithm">
@@ -47,113 +61,74 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ae02e83-e493-4f37-8af4-fd47e065e374" name="Default Changelist" comment="" />
-      <created>1582820424813</created>
+      <changelist id="557b5cdd-cbc1-4f77-bb87-3af4a8bbef07" name="Default Changelist" comment="" />
+      <created>1582658557644</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582820424813</updated>
-      <workItem from="1582820427241" duration="1060000" />
-      <workItem from="1584797423712" duration="83000" />
-      <workItem from="1584798029091" duration="1487000" />
-      <workItem from="1584871374478" duration="973000" />
-      <workItem from="1584986670179" duration="132000" />
-      <workItem from="1586259014528" duration="1212000" />
-      <workItem from="1586281364844" duration="339000" />
-      <workItem from="1586348355668" duration="17000" />
-      <workItem from="1586375370292" duration="3183000" />
-      <workItem from="1586426618653" duration="4294000" />
-      <workItem from="1586507445827" duration="24000" />
-      <workItem from="1586519420680" duration="626000" />
-      <workItem from="1586522034206" duration="66000" />
-      <workItem from="1586529302198" duration="419000" />
-      <workItem from="1586529730962" duration="376000" />
-      <workItem from="1586543869842" duration="324000" />
-      <workItem from="1586544464692" duration="71000" />
-      <workItem from="1586544538012" duration="2031000" />
-      <workItem from="1586547391124" duration="425000" />
-      <workItem from="1586594552140" duration="535000" />
-      <workItem from="1586596038000" duration="976000" />
-      <workItem from="1586597318644" duration="447000" />
-      <workItem from="1586597781283" duration="1549000" />
+      <updated>1582658557644</updated>
+      <workItem from="1582658560768" duration="1217000" />
+      <workItem from="1582660427126" duration="284000" />
+      <workItem from="1582660712973" duration="321000" />
+      <workItem from="1582661708043" duration="476000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586597443698">
+    <state x="208" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582662149002">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state x="208" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1586597443698" />
-    <state x="583" y="226" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1586597012811">
+    <state x="208" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1582662149002" />
+    <state x="522" y="332" key="#com.intellij.tools.ToolEditorDialog" timestamp="1582659166142">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state x="583" y="226" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1586597012811" />
-    <state x="533" y="257" key="FileChooserDialogImpl" timestamp="1586599225931">
+    <state x="522" y="332" key="#com.intellij.tools.ToolEditorDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1582659166142" />
+    <state x="488" y="264" key="EnvironmentVariablesDialog" timestamp="1582660931523">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state x="533" y="257" key="FileChooserDialogImpl/0.0.1504.1003@0.0.1504.1003" timestamp="1586599225931" />
-    <state width="1461" height="205" key="GridCell.Tab.0.bottom" timestamp="1586599389922">
+    <state x="488" y="264" key="EnvironmentVariablesDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1582660931523" />
+    <state x="533" y="257" key="FileChooserDialogImpl" timestamp="1582661001331">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1586599389922" />
-    <state width="1461" height="205" key="GridCell.Tab.0.center" timestamp="1586599389921">
+    <state x="533" y="257" key="FileChooserDialogImpl/0.0.1504.1003@0.0.1504.1003" timestamp="1582661001331" />
+    <state width="1461" height="205" key="GridCell.Tab.0.bottom" timestamp="1586879169273">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.center/0.0.1504.1003@0.0.1504.1003" timestamp="1586599389921" />
-    <state width="1461" height="205" key="GridCell.Tab.0.left" timestamp="1586599389921">
+    <state width="1461" height="205" key="GridCell.Tab.0.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1586879169273" />
+    <state width="1461" height="205" key="GridCell.Tab.0.center" timestamp="1586879169272">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.left/0.0.1504.1003@0.0.1504.1003" timestamp="1586599389921" />
-    <state width="1461" height="205" key="GridCell.Tab.0.right" timestamp="1586599389921">
+    <state width="1461" height="205" key="GridCell.Tab.0.center/0.0.1504.1003@0.0.1504.1003" timestamp="1586879169272" />
+    <state width="1461" height="205" key="GridCell.Tab.0.left" timestamp="1586879169271">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="205" key="GridCell.Tab.0.right/0.0.1504.1003@0.0.1504.1003" timestamp="1586599389921" />
-    <state width="1461" height="332" key="GridCell.Tab.1.bottom" timestamp="1586547816441">
+    <state width="1461" height="205" key="GridCell.Tab.0.left/0.0.1504.1003@0.0.1504.1003" timestamp="1586879169271" />
+    <state width="1461" height="205" key="GridCell.Tab.0.right" timestamp="1586879169272">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="332" key="GridCell.Tab.1.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1586547816441" />
-    <state width="1461" height="332" key="GridCell.Tab.1.center" timestamp="1586547816440">
+    <state width="1461" height="205" key="GridCell.Tab.0.right/0.0.1504.1003@0.0.1504.1003" timestamp="1586879169272" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1582660707821">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="332" key="GridCell.Tab.1.center/0.0.1504.1003@0.0.1504.1003" timestamp="1586547816440" />
-    <state width="1461" height="332" key="GridCell.Tab.1.left" timestamp="1586547816440">
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.0.1504.1003@0.0.1504.1003" timestamp="1582660707821" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1582660707821">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="332" key="GridCell.Tab.1.left/0.0.1504.1003@0.0.1504.1003" timestamp="1586547816440" />
-    <state width="1461" height="332" key="GridCell.Tab.1.right" timestamp="1586547816441">
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.0.1504.1003@0.0.1504.1003" timestamp="1582660707821" />
+    <state x="254" y="144" key="SettingsEditor" timestamp="1582660565956">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="332" key="GridCell.Tab.1.right/0.0.1504.1003@0.0.1504.1003" timestamp="1586547816441" />
-    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1586544531096">
+    <state x="254" y="144" key="SettingsEditor/0.0.1504.1003@0.0.1504.1003" timestamp="1582660565956" />
+    <state x="453" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1582661730343">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.0.1504.1003@0.0.1504.1003" timestamp="1586544531096" />
-    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1586544531095">
+    <state x="453" y="326" key="com.intellij.ide.util.TipDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1582661730343" />
+    <state x="562" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586882868880">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.0.1504.1003@0.0.1504.1003" timestamp="1586544531095" />
-    <state x="256" y="147" key="SettingsEditor" timestamp="1586599331866">
+    <state x="562" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1504.1003@0.0.1504.1003" timestamp="1586882868880" />
+    <state x="648" y="237" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1582659179075">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state x="256" y="147" key="SettingsEditor/0.0.1504.1003@0.0.1504.1003" timestamp="1586599331866" />
-    <state x="93" y="93" width="1319" height="817" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586596806876">
-      <screen x="0" y="0" width="1504" height="1003" />
-    </state>
-    <state x="93" y="93" width="1319" height="817" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1586596806876" />
-    <state x="449" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1586597780800">
-      <screen x="0" y="0" width="1504" height="1003" />
-    </state>
-    <state x="449" y="326" key="com.intellij.ide.util.TipDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1586597780800" />
-    <state x="564" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586599347820">
-      <screen x="0" y="0" width="1504" height="1003" />
-    </state>
-    <state x="564" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1504.1003@0.0.1504.1003" timestamp="1586599347820" />
-    <state x="325" y="238" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582820721189">
-      <screen x="0" y="0" width="1504" height="1003" />
-    </state>
-    <state x="325" y="238" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1504.1003@0.0.1504.1003" timestamp="1582820721189" />
-    <state x="415" y="216" width="672" height="678" key="search.everywhere.popup" timestamp="1586597732785">
-      <screen x="0" y="0" width="1504" height="1003" />
-    </state>
-    <state x="415" y="216" width="672" height="678" key="search.everywhere.popup/0.0.1504.1003@0.0.1504.1003" timestamp="1586597732785" />
+    <state x="648" y="237" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1504.1003@0.0.1504.1003" timestamp="1582659179075" />
   </component>
 </project>

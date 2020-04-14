@@ -1,8 +1,6 @@
 #include "graph.h"
 
 
-const Graph::NodeId Graph::invalid_node = -1;
-
 
 void Graph::add_nodes(NodeId num_new_nodes) {
     _nodes.resize(num_nodes() + num_new_nodes);
@@ -12,7 +10,7 @@ Graph::Neighbor::Neighbor(Graph::NodeId n) : _id(n) {}
 
 Graph::Graph(NodeId num, DirType dtype) : dirtype(dtype), _nodes(num) {}
 
-void Graph::add_edge(NodeId tail, NodeId head, int format) {
+void Graph::add_edge(NodeId tail, NodeId head, Format format) {
     if (tail >= num_nodes() or tail < 0 or head >= num_nodes() or head < 0) {
         throw std::runtime_error("Edge cannot be added due to undefined endpoint.");
     }
@@ -56,7 +54,7 @@ void Graph::print() const {
     std::cout << "with " << num_nodes() << " vertices, numbered 0,...,"
               << num_nodes() - 1 << ".\n";
 
-    for (auto nodeid = 0; nodeid < num_nodes(); ++nodeid) {
+    for (NodeId nodeid = 0; nodeid < num_nodes(); ++nodeid) {
         std::cout << "The following edges are ";
         if (dirtype == Graph::directed) {
             std::cout << "leaving";
@@ -129,7 +127,7 @@ Graph::Graph(char const *filename, DirType dtype) : dirtype(dtype) {
 
 
 bool Graph::is_edge(Graph::NodeId v, Graph::NodeId w) const {
-    if(v==invalid_node or w==invalid_node){
+    if(v == INVALIDNODE or w == INVALIDNODE){
         throw std::runtime_error("Error, Invalid node.");
     }
     for (Graph::Neighbor neighbor: Graph::get_node(v).adjacent_nodes()) {

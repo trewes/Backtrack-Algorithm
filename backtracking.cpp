@@ -119,10 +119,10 @@ std::vector<Graph::NodeId> isomorphic(const Graph &first_graph, const Graph &sec
 
 
                                   //we start by trying to match the first node to any of the nodes from the second graph
-    auto degree_of_0 = degree3(first_graph, 0);
+    auto degree_of_0 = triangle_count(first_graph, 0);
     for (Node possible_node = 0; possible_node < first_graph.num_nodes(); possible_node++) {
 
-        if (degree_of_0 == degree3(second_graph, possible_node)) {//again, need same degree
+        if (degree_of_0 == triangle_count(second_graph, possible_node)) {//again, need same degree
 
             //std::cout << "Step: " << possible_node << std::endl;
 
@@ -138,7 +138,7 @@ int degree(const Graph &graph, Node node) {
     return graph.get_node(node).adjacent_nodes().size();
 }
 
-std::vector<int> degree2(const Graph &graph, Node node) {
+std::vector<int> degree_neighbours(const Graph &graph, Node node) {
     std::vector<int> result;
     for (auto w: graph.get_node(node).adjacent_nodes()) {
         result.push_back(degree(graph, w.id()));
@@ -147,7 +147,7 @@ std::vector<int> degree2(const Graph &graph, Node node) {
     return result;
 }
 
-int degree3(const Graph &graph, Node node) {
+int triangle_count(const Graph &graph, Node node) {
     int count = 0;
     for (auto v: graph.get_node(node).adjacent_nodes()) {
         for (auto w: graph.get_node(node).adjacent_nodes()) {
@@ -163,9 +163,9 @@ bool distinguish(const Graph &first_graph, Node first_node, const Graph &second_
     if (degree(first_graph, first_node) != degree(second_graph, second_node)) {
         return false;
     } else if (method == neighbours) {
-        return (degree2(first_graph, first_node) == degree2(second_graph, second_node));
+        return (degree_neighbours(first_graph, first_node) == degree_neighbours(second_graph, second_node));
     } else if (method == triangles) {
-        return (degree3(first_graph, first_node) == degree3(second_graph, second_node));
+        return (triangle_count(first_graph, first_node) == triangle_count(second_graph, second_node));
     }
     return true;
 }
