@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Backtrack_Algorithm.dir/backtracking.cpp.o CMakeFiles/Backtrack_Algorithm.dir/graph.cpp.o CMakeFiles/Backtrack_Algorithm.dir/main.cpp.o  -o Backtrack_Algorithm.exe -Wl,--out-implib,libBacktrack_Algorithm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
