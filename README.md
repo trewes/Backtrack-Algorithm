@@ -1,7 +1,6 @@
 # Backtrack-Algorithm
 
-Graphs can be given at run time as two arguments to the .exe or specified at compile time and either in adjacency list format or adjacecny matrix with the first line giving the number of vertices in both cases.
+The program decides whether two gven graphs are isomorphic (and can find such an isomorphism) using a very naive backtracking approach. This was an introductory exercise into the general graph isomorphism problem and for a complex but more efficient approach see the main project of my internship, Nautyyy.
 
-It's a bit cluttered since I just copied my whole Clion project but it should be obvious what 
-the essential code files are if all the cmake stuff is not needed.
+Graphs can be given at run time as two arguments to the .exe and either in adjacency list format or as adjacency matrix with the first line giving the number of vertices in both cases.
 
